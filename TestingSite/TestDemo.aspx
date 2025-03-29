@@ -60,7 +60,7 @@
                         <td>Human Resources</td>
                     </tr>
                     <tr>
-                        <td>James Brown</td>
+                        <td>James Clear</td>
                         <td>45</td>
                         <td>Senior Developer</td>
                         <td>IT</td>
